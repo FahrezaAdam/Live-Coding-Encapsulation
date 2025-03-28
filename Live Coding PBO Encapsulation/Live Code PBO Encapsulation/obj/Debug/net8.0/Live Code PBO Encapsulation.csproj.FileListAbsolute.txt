@@ -1,0 +1,14 @@
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\bin\Debug\net8.0\Live Code PBO Encapsulation.exe
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\bin\Debug\net8.0\Live Code PBO Encapsulation.deps.json
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\bin\Debug\net8.0\Live Code PBO Encapsulation.runtimeconfig.json
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\bin\Debug\net8.0\Live Code PBO Encapsulation.dll
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\bin\Debug\net8.0\Live Code PBO Encapsulation.pdb
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\obj\Debug\net8.0\Live Code PBO Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\obj\Debug\net8.0\Live Code PBO Encapsulation.AssemblyInfoInputs.cache
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\obj\Debug\net8.0\Live Code PBO Encapsulation.AssemblyInfo.cs
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\obj\Debug\net8.0\Live Code PBO Encapsulation.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\obj\Debug\net8.0\Live Code PBO Encapsulation.dll
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\obj\Debug\net8.0\refint\Live Code PBO Encapsulation.dll
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\obj\Debug\net8.0\Live Code PBO Encapsulation.pdb
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\obj\Debug\net8.0\Live Code PBO Encapsulation.genruntimeconfig.cache
+D:\Visual Studio\Live Code PBO Encapsulation\Live Code PBO Encapsulation\obj\Debug\net8.0\ref\Live Code PBO Encapsulation.dll

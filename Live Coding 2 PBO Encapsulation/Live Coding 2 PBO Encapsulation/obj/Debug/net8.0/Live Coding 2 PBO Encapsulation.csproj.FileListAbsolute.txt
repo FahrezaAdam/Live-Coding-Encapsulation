@@ -1,0 +1,14 @@
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\bin\Debug\net8.0\Live Coding 2 PBO Encapsulation.exe
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\bin\Debug\net8.0\Live Coding 2 PBO Encapsulation.deps.json
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\bin\Debug\net8.0\Live Coding 2 PBO Encapsulation.runtimeconfig.json
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\bin\Debug\net8.0\Live Coding 2 PBO Encapsulation.dll
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\bin\Debug\net8.0\Live Coding 2 PBO Encapsulation.pdb
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\obj\Debug\net8.0\Live Coding 2 PBO Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\obj\Debug\net8.0\Live Coding 2 PBO Encapsulation.AssemblyInfoInputs.cache
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\obj\Debug\net8.0\Live Coding 2 PBO Encapsulation.AssemblyInfo.cs
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\obj\Debug\net8.0\Live Coding 2 PBO Encapsulation.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\obj\Debug\net8.0\Live Coding 2 PBO Encapsulation.dll
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\obj\Debug\net8.0\refint\Live Coding 2 PBO Encapsulation.dll
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\obj\Debug\net8.0\Live Coding 2 PBO Encapsulation.pdb
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\obj\Debug\net8.0\Live Coding 2 PBO Encapsulation.genruntimeconfig.cache
+D:\Visual Studio\Live Coding 2 PBO Encapsulation\Live Coding 2 PBO Encapsulation\obj\Debug\net8.0\ref\Live Coding 2 PBO Encapsulation.dll

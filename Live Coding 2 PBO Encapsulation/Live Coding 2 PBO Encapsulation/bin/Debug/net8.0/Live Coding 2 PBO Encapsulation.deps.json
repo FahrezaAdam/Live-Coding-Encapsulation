@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Live Coding 2 PBO Encapsulation/1.0.0": {
+        "runtime": {
+          "Live Coding 2 PBO Encapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Live Coding 2 PBO Encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
